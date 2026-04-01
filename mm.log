@@ -383,3 +383,14 @@ task: <Task cancelling name='Task-3' coro=<binance_ws_feed() running at /opt/xmr
 2026-04-01 15:00:39,617 [INFO] mm.orders: Cancelled 0 stale orders
 2026-04-01 15:01:10,437 [INFO] mm.orders: Cancelled 0 stale orders
 2026-04-01 15:01:41,308 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:02:12,100 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:02:42,771 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:03:13,466 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:03:44,109 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:04:14,762 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:04:45,416 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:04:58,066 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:05:17,015 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:05:47,675 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:06:18,343 [INFO] mm.orders: Cancelled 0 stale orders
+2026-04-01 15:06:49,019 [INFO] mm.orders: Cancelled 0 stale orders
