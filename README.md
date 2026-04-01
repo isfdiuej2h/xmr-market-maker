@@ -55,3 +55,4 @@ journalctl -u xmr1-mm-bot -f
 - SQLite WAL logging
 - Auto-restart with exponential backoff
 - Watchdog deadlock detection
+# xmr-market-maker
