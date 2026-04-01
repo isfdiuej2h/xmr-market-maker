@@ -1,0 +1,18 @@
+[Unit]
+Description=XMR1/USDC Market Maker Bot
+After=network.target
+
+[Service]
+Type=simple
+User=mm
+WorkingDirectory=/opt/xmr1-market-maker
+EnvironmentFile=/opt/xmr1-market-maker/.env
+ExecStart=/opt/xmr1-market-maker/venv/bin/python -m bot.main
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=xmr1-mm
+
+[Install]
+WantedBy=multi-user.target

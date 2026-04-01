@@ -1,0 +1,55 @@
+{
+  "status": "running",
+  "uptime": "2h 38m",
+  "cycle": 3079,
+  "last_cycle_time": "2026-04-01T15:02:08.323048",
+  "mid_price": 336.21,
+  "spread_bps": 50,
+  "inventory": {
+    "xmr_total": 0.0,
+    "xmr_hold": 0.0,
+    "xmr_available": 0.0,
+    "usdc_total": 0.0,
+    "usdc_hold": 0.0,
+    "usdc_available": 0.0,
+    "xmr_value_usdc": 0.0,
+    "total_value_usdc": 0.0,
+    "skew_bps": 0.0
+  },
+  "feeds": [
+    {
+      "source": "kraken",
+      "price": 336.41,
+      "age_seconds": 69.7,
+      "stale": true
+    },
+    {
+      "source": "binance",
+      "price": null,
+      "age_seconds": null,
+      "stale": true
+    },
+    {
+      "source": "kucoin",
+      "price": 336.21,
+      "age_seconds": 1.1,
+      "stale": false
+    }
+  ],
+  "pnl_24h": 0,
+  "fill_count_24h": 0,
+  "volume_24h": 0,
+  "recent_fills": [],
+  "events": [
+    {
+      "time": "12:23:46",
+      "level": "info",
+      "message": "Cancelled all stale orders"
+    },
+    {
+      "time": "12:23:45",
+      "level": "info",
+      "message": "Bot started, wallet: 0x81f2902e..."
+    }
+  ]
+}
